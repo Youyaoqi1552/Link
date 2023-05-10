@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Windows
+  m_EditorClassIdentifier: 
+  m_GroupName: Windows
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0d275b6ba541841209610c6be7a7dddb
+  m_SerializeEntries:
+  - m_GUID: e60e23880e22b49eba2476c004121c2c
+    m_Address: GameMatchingWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ac0fe6a2bcd5b414986e0a66ef5eb63c
+    m_Address: GameResultWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c005a400f056448f9879e96c91d31e41
+    m_Address: PiggyBankWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d982694893d52453aa0208aab0e356b6
+    m_Address: UserProfileWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 28d8df8a3c8c042b8bad6f4e0525248f
+    m_Address: SettingsWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 74d27445ee4ca4a8e9bdc81fda394403
+    m_Address: RankingListWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9fd4b05fcbd3542d39f7ddcff81b0dd4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 96f04e87648614fcbbcb723806a515b0, type: 2}
+    - {fileID: 11400000, guid: d0439f6599b2c4f40b8691c6e24d7ec7, type: 2}

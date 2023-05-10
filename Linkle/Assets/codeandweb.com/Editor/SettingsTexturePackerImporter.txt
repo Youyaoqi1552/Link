@@ -1,0 +1,96 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/AssetsPackage/UI/Atlas/Collection.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Common.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Game.tpsheet
+- Assets/AssetsPackage/UI/Atlas/GameMatching.tpsheet
+- Assets/AssetsPackage/UI/Atlas/GameResult.tpsheet
+- Assets/AssetsPackage/UI/Atlas/GameStart.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Main.tpsheet
+- Assets/AssetsPackage/UI/Atlas/PiggyBank.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Profile.tpsheet
+- Assets/AssetsPackage/UI/Atlas/RankingList.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Settings.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Shop.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Balls.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Balls2.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Buildings.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Children.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Christmas.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/CountryFlags.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Finance.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Food.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Fruits.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Funny.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Halloween.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Hats.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Hats2.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Love.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Retros.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Rugby.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Scenery.tpsheet
+- Assets/AssetsPackage/UI/Atlas/Themes/Squares.tpsheet
+textureFileNames:
+- Assets/AssetsPackage/UI/Atlas/Collection.png
+- Assets/AssetsPackage/UI/Atlas/Common.png
+- Assets/AssetsPackage/UI/Atlas/Game.png
+- Assets/AssetsPackage/UI/Atlas/GameMatching.png
+- Assets/AssetsPackage/UI/Atlas/GameResult.png
+- Assets/AssetsPackage/UI/Atlas/GameStart.png
+- Assets/AssetsPackage/UI/Atlas/Main.png
+- Assets/AssetsPackage/UI/Atlas/PiggyBank.png
+- Assets/AssetsPackage/UI/Atlas/Profile.png
+- Assets/AssetsPackage/UI/Atlas/RankingList.png
+- Assets/AssetsPackage/UI/Atlas/Settings.png
+- Assets/AssetsPackage/UI/Atlas/Shop.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Balls.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Balls2.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Buildings.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Children.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Christmas.png
+- Assets/AssetsPackage/UI/Atlas/Themes/CountryFlags.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Finance.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Food.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Fruits.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Funny.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Halloween.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Hats.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Hats2.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Love.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Retros.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Rugby.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Scenery.png
+- Assets/AssetsPackage/UI/Atlas/Themes/Squares.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

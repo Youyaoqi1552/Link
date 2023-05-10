@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a4701fdfe22c841b7ad987756be0287b
+  m_SerializeEntries:
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/ThirdParty/TextMeshPro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/ThirdParty/TextMeshPro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0ac67beebd7624975bda79b3da945c92
+    m_Address: Common.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 778b012ad194648dba6f54ab3d209c42
+    m_Address: Toast
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dcf644927614d4e3b94146ce2644dfde
+    m_Address: Assets/AssetsPackage/Configs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - globalconfigs
+    m_MainAsset: {fileID: 102900000, guid: dcf644927614d4e3b94146ce2644dfde, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: dcf644927614d4e3b94146ce2644dfde, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9fd4b05fcbd3542d39f7ddcff81b0dd4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e0a0f378c101740099e99ab192ec95bc, type: 2}
+    - {fileID: 11400000, guid: a10f411e1a8ce4d52812dbe9410efe7e, type: 2}

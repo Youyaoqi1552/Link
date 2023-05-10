@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 4d43f1d761b2c4596bf3a5803a4c24b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5395626413423051204
+    second: avatar_fg_other
+  - first:
+      213: 5877828564173563251
+    second: avatar_fg_self
+  - first:
+      213: -4138143578497763632
+    second: avatar_mask
+  - first:
+      213: -8688590093139050049
+    second: fail_clouds
+  - first:
+      213: -8082964602361143117
+    second: fail_defeated_effect
+  - first:
+      213: 4473051045575048056
+    second: fail_desc_bg
+  - first:
+      213: 3445877433482503724
+    second: fail_light_effect
+  - first:
+      213: 7936832925692457188
+    second: fail_panel_bg
+  - first:
+      213: 3437618487807084772
+    second: fail_panel_inner
+  - first:
+      213: 132878227475478825
+    second: fail_separator
+  - first:
+      213: -2815333673337535394
+    second: ic_combos
+  - first:
+      213: 4988951328189630801
+    second: ic_medal
+  - first:
+      213: 8408876901025903803
+    second: ic_pairs
+  - first:
+      213: 1010878504765332605
+    second: ic_star_fail
+  - first:
+      213: -4391313197670090610
+    second: ic_star_win
+  - first:
+      213: -1627811185230715505
+    second: ic_stars
+  - first:
+      213: -2162422855802387748
+    second: label_continue
+  - first:
+      213: 4814102367264566824
+    second: label_defeated
+  - first:
+      213: -2015698203718442661
+    second: label_go
+  - first:
+      213: -453093657662673851
+    second: label_ready
+  - first:
+      213: -1290221804927481354
+    second: label_win
+  - first:
+      213: -3157692569492032378
+    second: ready_go_light
+  - first:
+      213: 8521137363621076048
+    second: win_light_effect
+  - first:
+      213: -8725720958019356878
+    second: panel_bg
+  - first:
+      213: -2137118104933005577
+    second: panel_bg_inner
+  - first:
+      213: 4599456467346664171
+    second: panel_desc_bg
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avatar_fg_other
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1470
+        width: 156
+        height: 157
+      alignment: 9
+      pivot: {x: 0.49679488, y: 0.50318474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e343f3d52ee15b0800000000000000
+      internalID: -5395626413423051204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar_fg_self
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1311
+        width: 156
+        height: 157
+      alignment: 9
+      pivot: {x: 0.49679488, y: 0.50318474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375a532efed329150800000000000000
+      internalID: 5877828564173563251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar_mask
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1162
+        width: 142
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5105634, y: 0.50340134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6b316175c5296c0800000000000000
+      internalID: -4138143578497763632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail_clouds
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1733
+        width: 832
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1087b285deb6780800000000000000
+      internalID: -8688590093139050049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail_defeated_effect
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1045
+        width: 678
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b02530058a83df80800000000000000
+      internalID: -8082964602361143117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail_light_effect
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 710
+        width: 972
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26624ac44732df20800000000000000
+      internalID: 3445877433482503724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail_separator
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1930
+        width: 111
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 1, z: 28, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9293f0b3b0418d100800000000000000
+      internalID: 132878227475478825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_combos
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1629
+        width: 163
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54458cb0fcede8d0800000000000000
+      internalID: -2815333673337535394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_medal
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1844
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c476ecc05c3540800000000000000
+      internalID: 4988951328189630801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_pairs
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1936
+        width: 120
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4f2a54df452b470800000000000000
+      internalID: 8408876901025903803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_star_fail
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 384
+        width: 322
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c9d9be4ac570e00800000000000000
+      internalID: 1010878504765332605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_star_win
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 309
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b363b9ebee03c0800000000000000
+      internalID: -4391313197670090610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_stars
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1205
+        width: 133
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f856aeef95ad869e0800000000000000
+      internalID: -1627811185230715505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: label_continue
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 397
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd286b1aed78df1e0800000000000000
+      internalID: -2162422855802387748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: label_defeated
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1534
+        width: 746
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eeb29c8902fc240800000000000000
+      internalID: 4814102367264566824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: label_win
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1338
+        width: 726
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f985d3ba16381ee0800000000000000
+      internalID: -1290221804927481354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_desc_bg
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 104
+        width: 323
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 103, y: 101, z: 106, w: 102}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2210c94d84df30800000000000000
+      internalID: 4599456467346664171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win_light_effect
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1295
+        width: 1080
+        height: 752
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c51f80949214670800000000000000
+      internalID: 8521137363621076048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e2b8f9d0bba234384bbc5538b9f57bd7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

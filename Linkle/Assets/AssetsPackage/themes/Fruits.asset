@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0e140fdaa8c4d5aa15908af56e259d, type: 3}
+  m_Name: Fruits
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: -2374222918679686493, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: -761933863725385812, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: -5906598218874874896, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: -1816755548282093316, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 2008176328888099268, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 6967745887157389618, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 6501298950303736333, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: -3181606171480048652, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: -7010260848350730462, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: -8655818156195654838, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 6346318911325233748, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 1840059084634729652, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 1127223760459724062, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 2450565909728410856, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: -3165705482850905674, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: -5774996654182199871, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 4443897450750874535, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 5661049957185019681, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}
+  - {fileID: 8474981341611232960, guid: 7ebed0dc720404e6b9607b0a1bc7406e, type: 3}

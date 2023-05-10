@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Avatars
+  m_EditorClassIdentifier: 
+  m_GroupName: Avatars
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7c36fa21755224f0599bfabc66ab02cd
+  m_SerializeEntries:
+  - m_GUID: 5451f9968206a4264a2164b2d3faf8b9
+    m_Address: Assets/AssetsPackage/Avatars
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - avatars
+    m_MainAsset: {fileID: 102900000, guid: 5451f9968206a4264a2164b2d3faf8b9, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 5451f9968206a4264a2164b2d3faf8b9, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9fd4b05fcbd3542d39f7ddcff81b0dd4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c36e6a4c0f09040079e2e287da15509b, type: 2}
+    - {fileID: 11400000, guid: 56dcbced5083c4a268dda6c760a4db53, type: 2}

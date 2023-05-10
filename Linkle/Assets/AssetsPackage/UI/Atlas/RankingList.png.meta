@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 76f6ce83b8d4d4d2fb3fd4ef4e901efa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3155689840541056658
+    second: avatar_bg_first
+  - first:
+      213: -8053822289583347285
+    second: avatar_bg_second
+  - first:
+      213: -8402478620411854429
+    second: avatar_bg_third
+  - first:
+      213: 2210496780669781345
+    second: btn_total
+  - first:
+      213: 769343692893684475
+    second: btn_weekly
+  - first:
+      213: 7748933383363363269
+    second: counting_down_bg
+  - first:
+      213: -4102486983832566809
+    second: ic_brozen_medal
+  - first:
+      213: -6737928714026633121
+    second: ic_clock
+  - first:
+      213: 4075777817090236433
+    second: ic_golden_medal
+  - first:
+      213: 3263277475604508947
+    second: ic_only_friend
+  - first:
+      213: -6487320165350838825
+    second: ic_silver_medal
+  - first:
+      213: 6525129457837871875
+    second: item_bg_self
+  - first:
+      213: 3315843099426086883
+    second: item_num_bg
+  - first:
+      213: 424652848879447360
+    second: item_num_bg_self
+  - first:
+      213: 7868729507259220308
+    second: label_ranking_list
+  - first:
+      213: -8725720958019356878
+    second: panel_bg
+  - first:
+      213: -5078745772336321625
+    second: panel_bottom_bg
+  - first:
+      213: -22211456852404372
+    second: rank_bg
+  - first:
+      213: -8540546645503931431
+    second: rank_bg_self
+  - first:
+      213: 5044219397590161701
+    second: item_bg
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avatar_bg_first
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 495
+        width: 274
+        height: 290
+      alignment: 9
+      pivot: {x: 0.50364965, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e32ceb0334bcb20800000000000000
+      internalID: 3155689840541056658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar_bg_second
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 563
+        width: 197
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9e2417c431b3090800000000000000
+      internalID: -8053822289583347285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar_bg_third
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 348
+        width: 197
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a189858636646b80800000000000000
+      internalID: -8402478620411854429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_total
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 749
+        width: 386
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16587fc3c134dae10800000000000000
+      internalID: 2210496780669781345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_weekly
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 630
+        width: 386
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf28d1533024daa00800000000000000
+      internalID: 769343692893684475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: counting_down_bg
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 787
+        width: 336
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 84, y: 20, z: 84, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c10a874bddb98b60800000000000000
+      internalID: 7748933383363363269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_brozen_medal
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 533
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e30ff8f2d90117c0800000000000000
+      internalID: -4102486983832566809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_clock
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 542
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58b98e98811e72a0800000000000000
+      internalID: -6737928714026633121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_golden_medal
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 439
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a41b8452109830800000000000000
+      internalID: 4075777817090236433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_only_friend
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 646
+        width: 102
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311b0f0139d794d20800000000000000
+      internalID: 3263277475604508947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_silver_medal
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 533
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde8005ea868f5a0800000000000000
+      internalID: -6487320165350838825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_bg
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 351
+        width: 109
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 50, z: 42, w: 47}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5291f7211daa00640800000000000000
+      internalID: 5044219397590161701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_bg_self
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 202
+        width: 175
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 57, y: 47, z: 52, w: 42}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3031dd79baaed8a50800000000000000
+      internalID: 6525129457837871875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_num_bg
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 565
+        width: 183
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 46, y: 16, z: 46, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efd8381bbd340e20800000000000000
+      internalID: 3315843099426086883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_num_bg_self
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 504
+        width: 171
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 15, z: 43, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d2152248ba4e500800000000000000
+      internalID: 424652848879447360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: label_ranking_list
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 868
+        width: 769
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45102d9ebc7533d60800000000000000
+      internalID: 7868729507259220308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 1043
+        height: 986
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 261, y: 105, z: 261, w: 856}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2373310050308e680800000000000000
+      internalID: -8725720958019356878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_bottom_bg
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 778
+        width: 221
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 78, z: 68, w: 70}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab606fd0aba489b0800000000000000
+      internalID: -5078745772336321625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rank_bg
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 454
+        width: 76
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c675e543cc611bff0800000000000000
+      internalID: -22211456852404372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rank_bg_self
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 353
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db851f5312e97980800000000000000
+      internalID: -8540546645503931431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

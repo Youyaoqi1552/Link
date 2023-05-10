@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cbf595733104d8d94674c3adbcae4f6, type: 3}
+  m_Name: DifficultyDatabase
+  m_EditorClassIdentifier: 
+  difficultyJudgeConfigs:
+  - minPlayerStateValue: 0
+    maxPlayerStateValue: 10
+    levelDifficulty: 5
+    minRobotDifficultyLevel: 1
+    maxRobotDifficultyLevel: 3
+    patternDifficultyLevel: 1
+  - minPlayerStateValue: 11
+    maxPlayerStateValue: 20
+    levelDifficulty: 10
+    minRobotDifficultyLevel: 2
+    maxRobotDifficultyLevel: 4
+    patternDifficultyLevel: 2
+  - minPlayerStateValue: 21
+    maxPlayerStateValue: 30
+    levelDifficulty: 15
+    minRobotDifficultyLevel: 3
+    maxRobotDifficultyLevel: 5
+    patternDifficultyLevel: 3
+  - minPlayerStateValue: 31
+    maxPlayerStateValue: 40
+    levelDifficulty: 20
+    minRobotDifficultyLevel: 4
+    maxRobotDifficultyLevel: 5
+    patternDifficultyLevel: 4
+  - minPlayerStateValue: 41
+    maxPlayerStateValue: 50
+    levelDifficulty: 25
+    minRobotDifficultyLevel: 5
+    maxRobotDifficultyLevel: 5
+    patternDifficultyLevel: 5
+  patternDifficultyConfigs:
+  - id: 1
+    theme: CountryFlags
+    difficultyLevel: 1
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 2
+    theme: Fruits
+    difficultyLevel: 2
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 3
+    theme: Rugby
+    difficultyLevel: 3
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 4
+    theme: Squares
+    difficultyLevel: 4
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 5
+    theme: Retros
+    difficultyLevel: 5
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 6
+    theme: Funny
+    difficultyLevel: 1
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 7
+    theme: Hats
+    difficultyLevel: 2
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 8
+    theme: Halloween
+    difficultyLevel: 3
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 9
+    theme: Buildings
+    difficultyLevel: 4
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 10
+    theme: Christmas
+    difficultyLevel: 5
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 11
+    theme: Scenery
+    difficultyLevel: 1
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 12
+    theme: Finance
+    difficultyLevel: 2
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 13
+    theme: Children
+    difficultyLevel: 3
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 14
+    theme: Food
+    difficultyLevel: 4
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 15
+    theme: Hats2
+    difficultyLevel: 5
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 16
+    theme: Balls
+    difficultyLevel: 1
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 17
+    theme: Buildings
+    difficultyLevel: 2
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 18
+    theme: Love
+    difficultyLevel: 3
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 19
+    theme: Scenery
+    difficultyLevel: 4
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 20
+    theme: Balls2
+    difficultyLevel: 5
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 21
+    theme: Rugby
+    difficultyLevel: 1
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 22
+    theme: Fruits
+    difficultyLevel: 2
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 23
+    theme: Retros
+    difficultyLevel: 3
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 24
+    theme: Squares
+    difficultyLevel: 4
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 25
+    theme: Hats
+    difficultyLevel: 5
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 26
+    theme: Halloween
+    difficultyLevel: 1
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 27
+    theme: CountryFlags
+    difficultyLevel: 2
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 28
+    theme: Christmas
+    difficultyLevel: 3
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  - id: 29
+    theme: Hats2
+    difficultyLevel: 4
+    tiles: 0100000002000000030000000400000005000000060000000700000008000000
+  - id: 30
+    theme: Food
+    difficultyLevel: 5
+    tiles: 090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  robotDifficultyConfigs:
+  - difficultyLevel: 1
+    minBoardDifficultyLevel: 0
+    maxBoardDifficultyLevel: 10
+    minReactTime: 1
+    maxReactTime: 1.5
+  - difficultyLevel: 1
+    minBoardDifficultyLevel: 11
+    maxBoardDifficultyLevel: 20
+    minReactTime: 2
+    maxReactTime: 2.5
+  - difficultyLevel: 1
+    minBoardDifficultyLevel: 21
+    maxBoardDifficultyLevel: 30
+    minReactTime: 3
+    maxReactTime: 3.5
+  - difficultyLevel: 1
+    minBoardDifficultyLevel: 31
+    maxBoardDifficultyLevel: 40
+    minReactTime: 4
+    maxReactTime: 4.5
+  - difficultyLevel: 1
+    minBoardDifficultyLevel: 41
+    maxBoardDifficultyLevel: 50
+    minReactTime: 5
+    maxReactTime: 5.5
+  - difficultyLevel: 1
+    minBoardDifficultyLevel: 51
+    maxBoardDifficultyLevel: 60
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 2
+    minBoardDifficultyLevel: 0
+    maxBoardDifficultyLevel: 10
+    minReactTime: 2
+    maxReactTime: 2.5
+  - difficultyLevel: 2
+    minBoardDifficultyLevel: 11
+    maxBoardDifficultyLevel: 20
+    minReactTime: 3
+    maxReactTime: 3.5
+  - difficultyLevel: 2
+    minBoardDifficultyLevel: 21
+    maxBoardDifficultyLevel: 30
+    minReactTime: 4
+    maxReactTime: 4.5
+  - difficultyLevel: 2
+    minBoardDifficultyLevel: 31
+    maxBoardDifficultyLevel: 40
+    minReactTime: 5
+    maxReactTime: 5.5
+  - difficultyLevel: 2
+    minBoardDifficultyLevel: 41
+    maxBoardDifficultyLevel: 50
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 2
+    minBoardDifficultyLevel: 51
+    maxBoardDifficultyLevel: 60
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 3
+    minBoardDifficultyLevel: 0
+    maxBoardDifficultyLevel: 10
+    minReactTime: 3
+    maxReactTime: 3.5
+  - difficultyLevel: 3
+    minBoardDifficultyLevel: 11
+    maxBoardDifficultyLevel: 20
+    minReactTime: 4
+    maxReactTime: 4.5
+  - difficultyLevel: 3
+    minBoardDifficultyLevel: 21
+    maxBoardDifficultyLevel: 30
+    minReactTime: 5
+    maxReactTime: 5.5
+  - difficultyLevel: 3
+    minBoardDifficultyLevel: 31
+    maxBoardDifficultyLevel: 40
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 3
+    minBoardDifficultyLevel: 41
+    maxBoardDifficultyLevel: 50
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 3
+    minBoardDifficultyLevel: 51
+    maxBoardDifficultyLevel: 60
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 4
+    minBoardDifficultyLevel: 0
+    maxBoardDifficultyLevel: 10
+    minReactTime: 4
+    maxReactTime: 4.5
+  - difficultyLevel: 4
+    minBoardDifficultyLevel: 11
+    maxBoardDifficultyLevel: 20
+    minReactTime: 5
+    maxReactTime: 5.5
+  - difficultyLevel: 4
+    minBoardDifficultyLevel: 21
+    maxBoardDifficultyLevel: 30
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 4
+    minBoardDifficultyLevel: 31
+    maxBoardDifficultyLevel: 40
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 4
+    minBoardDifficultyLevel: 41
+    maxBoardDifficultyLevel: 50
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 4
+    minBoardDifficultyLevel: 51
+    maxBoardDifficultyLevel: 60
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 5
+    minBoardDifficultyLevel: 0
+    maxBoardDifficultyLevel: 10
+    minReactTime: 5
+    maxReactTime: 5.5
+  - difficultyLevel: 5
+    minBoardDifficultyLevel: 11
+    maxBoardDifficultyLevel: 20
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 5
+    minBoardDifficultyLevel: 21
+    maxBoardDifficultyLevel: 30
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 5
+    minBoardDifficultyLevel: 31
+    maxBoardDifficultyLevel: 40
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 5
+    minBoardDifficultyLevel: 41
+    maxBoardDifficultyLevel: 50
+    minReactTime: 6
+    maxReactTime: 6.5
+  - difficultyLevel: 5
+    minBoardDifficultyLevel: 51
+    maxBoardDifficultyLevel: 60
+    minReactTime: 6
+    maxReactTime: 6.5

@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 0c2599da9d2c6415b82e775c0ce610fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -269625481825786406
+    second: avatar_ft
+  - first:
+      213: -4138143578497763632
+    second: avatar_mask
+  - first:
+      213: -6660850396676912634
+    second: cell_bg
+  - first:
+      213: -2899951585070280683
+    second: cell_selected
+  - first:
+      213: -8031009226962837196
+    second: chat_bg
+  - first:
+      213: 1339669230990135708
+    second: chat_bubble
+  - first:
+      213: -368945188213267802
+    second: ic_chat
+  - first:
+      213: -8943286019199337146
+    second: ic_hint
+  - first:
+      213: 4988951328189630801
+    second: ic_medal
+  - first:
+      213: -5061384524304487702
+    second: ic_settings
+  - first:
+      213: 3522866686511674119
+    second: ic_shuffle
+  - first:
+      213: 8435100281381014823
+    second: ic_star
+  - first:
+      213: 2370321154018953304
+    second: ic_theme
+  - first:
+      213: 5044219397590161701
+    second: item_bg
+  - first:
+      213: -5491443484351792193
+    second: item_price_bg
+  - first:
+      213: 2811550078493393559
+    second: item_remaining_count_bg
+  - first:
+      213: -7338353495131428553
+    second: line
+  - first:
+      213: 8593879207438073195
+    second: progress_bar
+  - first:
+      213: 3408491599969063704
+    second: progress_bg
+  - first:
+      213: 2713511456499591552
+    second: rank_first
+  - first:
+      213: 4720490465030044330
+    second: remaining_bg_other
+  - first:
+      213: 3703446108149107625
+    second: remaining_bg_self
+  - first:
+      213: 4880566534065931498
+    second: remaining_coins_bg
+  - first:
+      213: -2145301560933620538
+    second: small_btn_bg
+  - first:
+      213: 5862444901784185996
+    second: star_fg
+  - first:
+      213: -9051524916206965676
+    second: ic_close_chat
+  - first:
+      213: 6712814882204162107
+    second: cell_bg_selected
+  - first:
+      213: 6406710254548954492
+    second: item_price_bg_active
+  - first:
+      213: -3699901078439645447
+    second: avatar_bg_left
+  - first:
+      213: -5902661670981830105
+    second: avatar_bg_right
+  - first:
+      213: 1689172433092372980
+    second: progress_bar_left
+  - first:
+      213: -984688672677690014
+    second: progress_bar_right
+  - first:
+      213: -5994704645173983270
+    second: avatar_bg
+  - first:
+      213: 5622210796533448815
+    second: header_bg
+  - first:
+      213: 4628578724076855795
+    second: pairs_bg
+  - first:
+      213: 4587343900994013375
+    second: progress_frame
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avatar_bg
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 403
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad74503f2e78ecca0800000000000000
+      internalID: -5994704645173983270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatar_mask
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6b316175c5296c0800000000000000
+      internalID: -4138143578497763632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell_bg
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 536
+        width: 199
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 60, z: 60, w: 60}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a8d0cdad7ef83a0800000000000000
+      internalID: -6660850396676912634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chat_bg
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 592
+        width: 212
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 68, z: 75, w: 60}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431eefe78af1c8090800000000000000
+      internalID: -8031009226962837196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chat_bubble
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 174
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9110b55116779210800000000000000
+      internalID: 1339669230990135708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: header_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 691
+        width: 558
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f600eb38eea160e40800000000000000
+      internalID: 5622210796533448815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_chat
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 107
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a265fa5e4e31eaf0800000000000000
+      internalID: -368945188213267802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_close_chat
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 607
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ce2e5bb06826280800000000000000
+      internalID: -9051524916206965676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_hint
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 572
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64df7e4cfb013e380800000000000000
+      internalID: -8943286019199337146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_medal
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 516
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c476ecc05c3540800000000000000
+      internalID: 4988951328189630801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_settings
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 13
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaeb2d679952c9b0800000000000000
+      internalID: -5061384524304487702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_shuffle
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 572
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703f590269cb3e030800000000000000
+      internalID: 3522866686511674119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_theme
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 415
+        width: 135
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858c4e4f78215e020800000000000000
+      internalID: 2370321154018953304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 186
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 47, z: 58, w: 71}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5291f7211daa00640800000000000000
+      internalID: 5044219397590161701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_price_bg
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 581
+        width: 125
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 22, z: 35, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbf313fe397ac3b0800000000000000
+      internalID: -5491443484351792193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_price_bg_active
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 634
+        width: 129
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 22, z: 35, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d2e35480539e850800000000000000
+      internalID: 6406710254548954492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_remaining_count_bg
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 451
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79202d076e1a40720800000000000000
+      internalID: 2811550078493393559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: line
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 745
+        width: 210
+        height: 34
+      alignment: 9
+      pivot: {x: 0.50238097, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739e17e506ee82a90800000000000000
+      internalID: -7338353495131428553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pairs_bg
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 890
+        width: 435
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1288783d30c3040800000000000000
+      internalID: 4628578724076855795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_bar_left
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 863
+        width: 205
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f96ad6d065217710800000000000000
+      internalID: 1689172433092372980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_bar_right
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 836
+        width: 205
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26502ba8edea552f0800000000000000
+      internalID: -984688672677690014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_bg
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 781
+        width: 218
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8131f0c1d056d4f20800000000000000
+      internalID: 3408491599969063704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: progress_frame
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 809
+        width: 205
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb88d4129f489af30800000000000000
+      internalID: 4587343900994013375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remaining_coins_bg
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 821
+        width: 254
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 65, y: 24, z: 65, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4c8a587614bb340800000000000000
+      internalID: 4880566534065931498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_btn_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 551
+        width: 127
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e57cb89b5a32e0800000000000000
+      internalID: -2145301560933620538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
